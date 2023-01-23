@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #d3a5f4;
+    font-size: 20px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold' ;
+    font-size: 50px;
+   font-stretch: ultra-expanded;
+   font-style: italic;
+   font-variant: small-caps slashed-zero;
+   text-shadow: 2px 2px 5px rgb(124, 235, 39);
+
+}
+#score {
+    font-variant-numeric: tabular-nums;
+    font-family: Impact, 'Arial Narrow Bold' ;
+    font-style: italic;
+    font-stretch: ultra-expanded;
+    
+    
+ 
+}
